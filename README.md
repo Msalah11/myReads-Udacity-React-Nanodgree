@@ -5,16 +5,23 @@ myReads is a udacity React nanodgree project you can run this project on your lo
 
 #Getting Started
 Clone the repo
-### `git@github.com:Msalah11/myReads-Udacity-React-Nanodgree.git`
-
+```
+git@github.com:Msalah11/myReads-Udacity-React-Nanodgree.git
+```
 Change into project directory
-### `cd myReads-Udacity-React-Nanodgree`
+```
+cd myReads-Udacity-React-Nanodgree
+```
 
 Install project dependencies
-### `npm install`
+```
+npm install
+```
 
 And start the application
-### `npm start`
+```
+npm start
+```
 The app will automatically launch in your browser with _localhost:3000_.
 
 
