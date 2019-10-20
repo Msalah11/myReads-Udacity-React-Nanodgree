@@ -3,7 +3,8 @@
 myReads is a udacity React nanodgree project you can run this project on your local machine, or do pretty much anything else? If you chose the former these instructions will get you up and running.
 
 
-#Getting Started
+# Getting Started
+
 Clone the repo
 ```
 git@github.com:Msalah11/myReads-Udacity-React-Nanodgree.git

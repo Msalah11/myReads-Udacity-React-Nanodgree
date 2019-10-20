@@ -2,7 +2,6 @@ import React from 'react';
 
 class BookDetails extends React.Component{
     render() {
-        console.log('props', this.props);
         let book = this.props.book;
         const thumbnail = book.imageLinks ? book.imageLinks.thumbnail : 'https://via.placeholder.com/128.png';
 
